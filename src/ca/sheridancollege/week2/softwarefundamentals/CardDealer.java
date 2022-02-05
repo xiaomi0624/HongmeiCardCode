@@ -11,8 +11,10 @@ public class CardDealer
     {
         
         Card twohearts = new Card("Hearts", 2);
-        Card fiveSpades = new Card ("Spades", 5);
-        Card nineDiamonds = new Card("Diamonds,9);
+        Card fiveSpades = new Card("Spades", 5);
+        Card nineDiamonds = new Card("Diamonds",9);
+        Card sixClub = new Card("Club",6);
+        
         
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
